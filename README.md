@@ -1,6 +1,6 @@
 # Hi there, I'm Bilal Shakeel! 👋
 
-I'm a passionate **Web Developer** and **AI Engineer** with a diverse technical background. I love crafting scalable web applications using modern frameworks, developing intelligent AI solutions, and exploring the latest in networking and systems design. Whether it's building a MERN stack app or diving deep into machine learning, I'm always ready for a challenge! 🚀
+I'm a passionate **Web Developer** and **AI Engineer** with a diverse technical background. I love building scalable web applications, harnessing the power of AI, and exploring emerging technologies like blockchain and cloud computing. Whether it's developing a MERN stack app, creating deep learning models, or deploying solutions on AWS, I'm always ready to innovate! 🚀
 
 ---
 
@@ -29,9 +29,11 @@ I'm a passionate **Web Developer** and **AI Engineer** with a diverse technical 
   ![C](https://img.shields.io/badge/C-555555?logo=c&logoColor=white)
 - **C# & .NET**  
   ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+- **Go (Golang)**  
+  ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 
 ### AI & Machine Learning
-- **Deep Learning & CGANs**  
+- **Deep Learning & CGANs**
 - **Data Science & Jupyter Notebooks**
 
 ### Databases
@@ -40,23 +42,31 @@ I'm a passionate **Web Developer** and **AI Engineer** with a diverse technical 
 - **NoSQL Databases** (MongoDB, etc.)  
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-### DevOps & Containerization
+### DevOps & Cloud
 - **Docker & Containerization**  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+- **AWS Cloud Expertise**  
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 
 ### Networking & Certifications
 - **Cisco Networking & CNET**  
   ![Cisco](https://img.shields.io/badge/Cisco-1BA0C7?logo=cisco&logoColor=white)  
-  *Familiar with network configurations, protocols, and Cisco technologies.*
+  *Experienced in network configurations, protocols, and Cisco technologies.*
+
+### Blockchain & Distributed Ledger
+- **Blockchain Development**  
+  Experience with blockchain technology including Ethereum, smart contracts, and decentralized applications.  
+  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
 
 ---
 
 ## 📚 What I’m Working On
 
-- **Web Applications:** Crafting responsive and modern apps using frameworks like **Next.js**, **Angular**, and the **MERN Stack**.
+- **Web Applications:** Crafting responsive, modern apps using frameworks like **Next.js**, **Angular**, and the **MERN Stack**.
 - **AI Projects:** Experimenting with deep learning models for tasks such as text prediction, image analysis, and more.
-- **Systems & Networking:** Delving into networking protocols and systems design, integrating Cisco solutions into real-world applications.
-- **DevOps/MLOps:** Streamlining development and deployment workflows using Docker and container orchestration.
+- **Blockchain Solutions:** Exploring decentralized applications and smart contract development.
+- **Cloud & DevOps:** Leveraging AWS cloud services and Docker to streamline development and deployment pipelines.
+- **Systems & Networking:** Integrating advanced networking protocols and Cisco solutions into robust systems.
 
 ---
 
@@ -76,8 +86,8 @@ I'm a passionate **Web Developer** and **AI Engineer** with a diverse technical 
 
 ## 🌟 Fun Fact
 
-When I'm not coding, you might find me exploring new technologies, diving into AI research papers, or geeking out over the latest in networking innovations! 🤓
+When I'm not coding, you'll find me exploring the latest tech trends, diving into blockchain innovations, or enjoying a good cup of coffee ☕️!
 
 ---
 
-*Thank you for visiting my GitHub profile! Have a fantastic day!*
+*Thank you for visiting my GitHub profile! Have an amazing day!*
