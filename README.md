@@ -43,8 +43,8 @@ I'm a passionate **Web Developer** and **AI Engineer** who loves building scalab
 
 ## 🚀 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?bilal2134&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?bilal2134&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilal2134&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilal2134&layout=compact&theme=radical)
 
 ---
 
